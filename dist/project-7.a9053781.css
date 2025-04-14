@@ -1,0 +1,49 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.dropDown {
+  appearance: none;
+  border: 2px solid #5454df;
+}
+
+.page {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  max-width: 900px;
+  margin: 20px auto;
+  display: flex;
+}
+
+.title {
+  text-align: center;
+}
+
+.breed-selector {
+  background-color: #e0d8d8;
+  padding: 10px;
+}
+
+.dog-button {
+  color: #fff;
+  background-color: #4b4bfb;
+  border: none;
+  border-radius: 3px;
+  padding: 6px;
+  font-size: 15px;
+}
+
+.image {
+  object-fit: cover;
+  border-radius: 8px;
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 20px;
+  display: block;
+  box-shadow: 0 2px 8px #0003;
+}
+/*# sourceMappingURL=project-7.a9053781.css.map */
